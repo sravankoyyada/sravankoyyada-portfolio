@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* --- Global Styles --- */
+body {
+  @apply bg-gradient-to-br from-slate-900 via-slate-800 to-dark text-slate-100;
+  font-family: 'Inter', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Poppins', sans-serif;
+}
+
+/* --- Glassmorphism Card --- */
+.card-glass {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  transition: all 0.3s ease;
+}
+
+/* Apply glow effect manually (equivalent to Tailwind's boxShadow.glow) */
+.card-glass:hover {
+  box-shadow: 0 0 20px rgba(124, 58, 237, 0.5);
+  transform: translateY(-3px);
+}
