@@ -52,10 +52,10 @@ const experiences = [
     company: "CSIR- National Aerospace Laboratories (NAL), Bengaluru",
     date: "Oct 2025 - Present",
     details: [
-      "Working in the UAV (Unmanned Aerial Vehicle) Division focusing on computer vision and image processing Technologies for an agricultural technology mission project involving the Rooted Soil Shear Apparatus (RSSA).",
-      "YOLO Machine learning models traing for Object detection, Tracking and feature extraction for very high altitude Images and Videos.",
+      "Contributed to UAV-based agricultural solutions by applying computer vision and image processing Technologies for an agricultural technology mission - Region Specific Smart Agro-Technologies for Soil and Plant Health (RSSA).",
+      "Machine learning models traing for Object detection, Tracking and feature extraction for UAV Captured high altitude Images and Videos.",
       "Utilizing Roboflow for dataset management, annotation, and preprocessing to streamline training workflows Annotated.",
-      "Created training dataset of 5000+ images for ML model traing for Object detection.",
+      "Created training a dataset of 15,000+ images for Object Detection Model Traing and Fine-tuning.",
       "Having hands on experience in Spectral Images (Multispectral and Hyperspectral 6Bands & 240 Bands Respectively ) Processing Using Agisoft Metashape and Spectronon. ",
       "Generating Orthomosaic, NDVI & DEM For feature extraction and Agricultural Crop and soil analysis",
       "Training and optimizing models for enhanced UAV perception, target tracking, and autonomous navigation capabilities.",
@@ -67,10 +67,10 @@ const experiences = [
     company: "Bharat Electronics Limited (BEL), Bengaluru",
     date: "Aug 2025 – Oct 2025",
     details: [
-      "Worked on GUI development using C++ and Qt Creator for application interfaces.",
-      "Contributed to software modules involving real-time data visualization and user interaction.",
-      "Involved in front-end application development using React to enhance usability and performance.",
-      "Gained hands-on experience in integrating desktop and web-based application workflows.",
+      "Developed and enhanced a React-based application, utilizing component lifecycle methods, Context API, and Redux for efficient state management and scalable UI architecture.",
+      "Designed and implemented responsive, high-performance user interfaces, improving usability and overall user experience.",
+      "Built and integrated RESTful APIs using Node.js and Spring Boot, enabling seamless frontend-backend communication.",
+      "Contributed to microservices-based development, collaborating on building modular, scalable, and maintainable backend services.",
     ],
   },
 
@@ -79,10 +79,10 @@ const experiences = [
     company: "Hindustan Aeronautics Limited (HAL), Bengaluru",
     date: "May 2024 - july 2024",
     details: [
-      "Worked on GUI design and development using JavaFX Scene Builder for the Light Combat Helicopter (LCH) project.",
-      "Contributed to full-stack application development using Java, Spring Framework, and related technologies.",
-      "Developed interactive interfaces and back-end integration for aviation system visualization and control.",
-      "Collaborated with engineers to enhance user experience and improve system reliability for mission-critical operations.",
+      "Designed and developed rich user interfaces using JavaFX (Scene Builder) for the Light Combat Helicopter (LCH) project, enhancing usability and system interaction.",
+      "Contributed to UI development using Java and Spring Framework (Spring Boot, Spring MVC) to build scalable and maintainable applications.",
+      "Developed and integrated RESTful APIs for seamless communication between frontend interfaces and backend services.",
+      "Implemented backend logic and data handling to support aviation system visualization and control functionalities.",
     
     ],
   },

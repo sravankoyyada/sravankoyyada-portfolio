@@ -3,7 +3,7 @@ import React from "react";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { motion } from "framer-motion";
 import AnimatedSection from "../utils/AnimatedSection";
-import profileImage from "../assets/sravan1.jpg"; // make sure this file exists
+import profileImage from "../assets/sravan1.png"; // make sure this file exists
 import Prism from "../reactbits/Prism"; //  animated background component
 
 export default function Hero() {
@@ -50,9 +50,10 @@ export default function Hero() {
               Contact Me
             </a>
             <a
-              className="px-5 py-2 rounded-md border border-slate-700 hover:border-primary transition"
-              href="/Sravan_SoftwareDev_RESUME (1).pdf"
+              href={`${import.meta.env.BASE_URL}/SravanKoyyada_Resume_Updated (2).pdf`}
               target="_blank"
+              rel="noopener noreferrer"
+              className="px-5 py-2 rounded-md border border-slate-700 hover:border-primary transition"
             >
               Download Resume
             </a>
